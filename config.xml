@@ -2,15 +2,15 @@
 <all>
 	<config>
 		<baseurl>http://daddyleagues.com/</baseurl>
-		<league>TSL</league>
-		<cmdprefix>?</cmdprefix>
+		<league>rftr</league>
+		<cmdprefix>/</cmdprefix>
 		<pslimit>5</pslimit>
 		<charlimit>1000</charlimit>
 	</config>
 	<info>
-		<league>The Test League (TTL)</league>
-		<commish>put commish name here</commish>
-		<rules>put rules link here</rules>
+		<league>Race for the Rings (TTL)</league>
+		<commish>Primo/Weigt</commish>
+		<rules>http://daddyleagues.com/rftr/rules</rules>
 		<owners>put owners link here</owners>
 		<advance>9/3, 5pm Central</advance>
 		<draft>9/3, 5pm Central</draft>
