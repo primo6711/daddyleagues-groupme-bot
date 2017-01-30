@@ -3,7 +3,7 @@
 	<config>
 		<baseurl>http://daddyleagues.com/</baseurl>
 		<league>rftr</league>
-		<cmdprefix>/</cmdprefix>
+		<cmdprefix>#</cmdprefix>
 		<pslimit>5</pslimit>
 		<charlimit>1000</charlimit>
 	</config>
